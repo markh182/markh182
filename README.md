@@ -1,7 +1,7 @@
-Hi, I’m Mark
-I’m interested in ... many tings
-I’m currently learning ... a lot
-I’m looking to collaborate on ... anything i find interesting
+Hi, I’m Mark<br />
+I’m interested in ... many tings<br />
+I’m currently learning ... a lot<br />
+I’m looking to collaborate on ... anything i find interesting<br />
 How to reach me ... here
 
 <!---
